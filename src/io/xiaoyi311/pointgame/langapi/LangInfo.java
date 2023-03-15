@@ -8,27 +8,27 @@ public class LangInfo {
     /**
      * 语言名称
      */
-    public String langName;
+    public final String langName;
 
     /**
      * 语言本地名
      */
-    public String lang;
+    public final String lang;
 
     /**
      * 语言切换
      */
-    public String change;
+    public final String change;
 
     /**
      * 语言切换简介
      */
-    public String changeDes;
+    public final String changeDes;
 
     /**
      * 语言图标
      */
-    public String icon;
+    public final String icon;
 
     /**
      * 实例化
