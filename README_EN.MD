@@ -1,6 +1,6 @@
 <div align="center">
     <h1>PGAPI-Lang</h1>
-    <a href="./README.MD">[Chinese document]</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="./README_EN. MD">[English Doc]</a>
+    <a href="./README.MD">[Chinese document]</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="./README_EN.MD">[English Doc]</a>
     <p>PointGame My world's small game server, language management plug-in API, independently developed by Xiaoyi311, is used by PointGame server, and the code can be learned by anyone</p>
     <p>By<a href="https://pointgame.top"> PointGameTeam </a>devoted to production</p>
     <a><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="build passing"></a>
